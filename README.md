@@ -1,6 +1,6 @@
 # Valorant-VAN-Bypass
 ```
-NOTE : This is not TPM bypass
+NOTE : THIS IS NOT TPM BYPASS
 ```
 - After bypass u need to restart, after restart make sure u have TPM bypass and then open val 
 > HOW TO USE
