@@ -1,2 +1,3 @@
 # Valorant-VAN-Bypass
-VANGUARD BYPASS VGC + VGK (Idk if this work or not)
+- After bypass u need to restart, after restart make sure u have TPM bypass and then open val 
+```NOTE : This is not TPM bypass```
