@@ -1,4 +1,4 @@
-# Valorant-VAN-Bypass
+# Simpel-Valorant-Bypass
 ```
 NOTE : THIS IS NOT TPM BYPASS
 ```
